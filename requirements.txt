@@ -1,0 +1,27 @@
+tensorflow==2.12.0
+pandas
+# download from g-drive
+gdown
+# mlops packages
+dvc
+mlflow==2.2.2
+# usual DL packages
+notebook
+numpy
+matplotlib
+seaborn
+# something crazy!
+python-box==6.0.2
+# load yaml
+pyYAML
+# progress bar
+tqdm
+ensure==1.0.2
+# UI packages
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+# setup src as local package
+-e .
