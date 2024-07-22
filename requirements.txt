@@ -10,7 +10,7 @@ notebook
 numpy
 matplotlib
 seaborn
-# something crazy!
+# python exception functionality
 python-box==6.0.2
 # load yaml
 pyYAML
