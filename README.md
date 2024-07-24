@@ -1,6 +1,8 @@
 # MLOPS_Deep_Learning
 A basic classification project to underscore the importance of production grade deployment lifecycle
 
+- [Data link](https://drive.google.com/drive/folders/1lkG7hhcX_Hb07M6tIrz0nJ6cLu9PpTGi?usp=drive_link)
+
 # Workflows
 1. Update config.yaml
 2. Update params.yaml

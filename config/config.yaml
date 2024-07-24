@@ -1,0 +1,10 @@
+artifacts_root: artifacts
+
+# data ingestion related CONSTANTS
+# This file is assoc with utils.common.py
+# Easier to handle from python files
+data_ingestion:
+  root_dir: artifacts/data_ingestion/
+  source_url: https://drive.google.com/file/d/101_DIOzF9sP9T7HJHh5Z8V2eDHgPrtTo/view?usp=drive_link
+  unzip_dir: artifacts/data_ingestion
+  local_data_file: artifacts/data_ingestion/data.zip
